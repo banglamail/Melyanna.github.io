@@ -1,30 +1,28 @@
 ---
 layout: page
 title: About me
-subtitle: A list of my projects and some useful links
+subtitle: Big Data Analyst, Web Developer, Writter & Internet Addict
 ---
-All links will open in the same tab/window. Right-click to keep this page open and open links in a new tab/window.
+Hi, This Rafayet Hossain from Dhaka. A self-motivated person of positivity. Like to work with honesty, sincerity, and creativity.
 
 ## My website
 
-* [Melyanna.net](https://melyanna.net/) 
-My landing page. Currently work in progress.
+* [Rivu](http://sumct1.lictproject.com/) • This is a sample project of mine. Currently work in progress.
 
-## Places I haunt... In Italian
+## Places I haunt
 
-* [Taccuino digitale](https://taccuinodigitale.net/)
-This where I write in my native language. Powered by [write.as](https://write.as/)
+* [Twitter](https://twitter.com/RafayetHossain/) • Follow Me on Twitter Also.
+* [Medium](https://medium.com/@rafayet13) • This is my medium page.
+* [LinkedIn](https://www.linkedin.com/in/rafayet13) • This is my LinkedIn Profile.
+
+
+## Me on Youtube
+
+* [YouTube](https://www.youtube.com/channel/UCsTNdhx0etbm-571LVTCW2g/featured?view_as=subscriber) • This is my Youtube Profile.
+
 
 ## Useful stuff, and things I like
 
-* [Twine](http://twinery.org/)
-An open-source tool for making interactive stories and games. Very easy learning curve, lots of fun.
-
-* [Sortingh.at](http://www.sortingh.at/)
-Tool that gives personalized resources to help get started making games. By [Zoë Quinn](http://www.unburntwitch.com/).
-
-* [Icon generators](http://www.icongenerators.net/index.html)
-Make cool avatars and icons, like the ones I am using in this blog.
-
-* [Subtle Patterns](http://subtlepatterns.com/)
-The background images of this blog come from this site.
+* [LinkedIn](https://www.linkedin.com/in/rafayet13/) • Biggest sites for the professionals to share ones thoughts and views, also helpful getting new job. 
+* [Sortingh.at]() •  Tool that gives personalized resources to help get started making games. By [Rafayet Hossain](http://www.rafayet13.blogspot.com/).
+* () • More info is coming soon.
